@@ -1,0 +1,21 @@
+{
+  "name": "@kos.moe/uid",
+  "version": "0.1.0",
+  "main": "dist/main.js",
+  "author": "robin* <robin_maki@planet.moe>",
+  "engines": {
+    "node": ">12.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.2.3"
+  },
+  "dependencies": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/byulmaru/uid.git"
+  },
+  "scripts": {
+    "prepare": "tsc"
+  }
+}
