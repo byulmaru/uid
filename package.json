@@ -1,6 +1,6 @@
 {
   "name": "@kos.moe/uid",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "dist/main.js",
   "author": "robin* <robin_maki@planet.moe>",
   "engines": {
